@@ -4,3 +4,4 @@ A cryptocurrency exchange Dapp built upon the ethereum blockchain to exchange et
 * Clone the repository
 * Truffle migrate
 * npm run start
+<img src="src/screenshot.png"/>

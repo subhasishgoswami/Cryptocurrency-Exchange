@@ -12,7 +12,7 @@ class Navbar extends Component {
           target="_blank"
           rel="noopener noreferrer"
         >
-          HCX Exchange
+          Cryptocurrency Exchange
         </a>
 
         <ul className="navbar-nav px-3">
