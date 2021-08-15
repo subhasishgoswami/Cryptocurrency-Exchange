@@ -7,6 +7,7 @@ A centralised cryptocurrency exchange Dapp built upon the ethereum blockchain to
 * npm run start
 ## Screenshot
 <img src="src/screenshot.png"/>
+
 ## Smart Contracts
 * ERC-20 Token Smart Contract
 * Ethereum Swap
