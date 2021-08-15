@@ -18,6 +18,6 @@ A centralised cryptocurrency exchange Dapp built upon the ethereum blockchain to
 * Ganache
 * Truffle
 ## References
-[ERC- 20 Token](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
-[DAPP University ETH Swap](https://github.com/dappuniversity/eth_swap)
+* [ERC- 20 Token](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
+* [DAPP University ETH Swap](https://github.com/dappuniversity/eth_swap)
 
